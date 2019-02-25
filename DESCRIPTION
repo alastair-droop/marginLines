@@ -1,0 +1,10 @@
+Package: marginLines
+Type: Package
+Title: Add lines to plot margins
+Version: 1.4
+Date: 2015-03-10
+Author: Alastair Droop <alastair.droop@gmail.com>
+Maintainer: Alastair Droop <alastair.droop@gmail.com>
+Description: Functions to draw lines in plot margins.
+License: LGPL (>=2)
+LazyLoad: yes

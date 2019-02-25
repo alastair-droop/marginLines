@@ -1,0 +1,2 @@
+importFrom("graphics", "arrows", "par", "segments")
+export(line.coordinates, margin.lines, margin.brackets, margin.arrows)
